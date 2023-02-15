@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaccoonDML
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning neural network
+- 🌱 I’m currently learning diffusion model for crowd counting
 
 <!---
 RaccoonDML/RaccoonDML is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

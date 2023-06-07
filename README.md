@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RaccoonDML
+- 👋 Hi, I’m @RaccoonDML from Fudan University.
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning diffusion model for crowd counting
 
